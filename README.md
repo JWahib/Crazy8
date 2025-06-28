@@ -1,7 +1,7 @@
 # 🃏 Crazy 8 — Unity C# Scripts
 
-This repository contains the C# scripts used in a Unity-based **Uno-style card game**. 
-The logic handles card play, turn control, wild cards, and custom actions like draw-two and pass.
+This repository contains the C# scripts used in a Unity-based **Uno-style card game** called Crazy 8. 
+This version uses the rules that Dad taught us growing up, and the aim of this passion project is to make a complete version of the game to recreate that same amazingly fun experience.
 
 ---
 
